@@ -5,3 +5,4 @@ Thewe files are examples for VexIQ remote control program to configure double cl
 3. Demo 2, Press and Hold with Double Clicking 
 
 For more detail of these examples, watch this video: https://youtu.be/xhaSwXgLUNU
+Visit my blog for detail: https://medium.com/@makayla.chou1234/vex-iq-double-click-with-toggle-and-press-and-hold-button-7ea9984feb6b
