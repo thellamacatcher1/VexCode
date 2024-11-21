@@ -11,4 +11,4 @@ WATCH FOR DETAILS / TUTORIAL
 https://www.youtube.com/watch?v=f_pGgHfo_hs
 
 
-[https://medium.com/@matthewsolomonchou/vexiq-design-pid-controller-to-fit-your-robot-0a796cb5afc9](url)
+](https://medium.com/@matthewsolomonchou/vexiq-design-pid-controller-to-fit-your-robot-0a796cb5afc9)
