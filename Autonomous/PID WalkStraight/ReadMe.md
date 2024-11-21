@@ -1,7 +1,11 @@
 1. Download File
-2. 2.Modify the potor port numbers
+   
+2.Modify the motor port numbers
+   
 3.Uplaod to Brain
+
 4.Test for KP
+
 WATCH FOR DETAILS / TUTORIAL
 
 [https://www.youtube.com/watch?v=f_pGgHfo_hs
