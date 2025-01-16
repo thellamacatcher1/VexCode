@@ -2,20 +2,23 @@ Contains 4 files -
 
 Watch video for more context
 
-Positive negative turn sample
+a. Positive negative turn sample
 
-Dedicated turning code(Same formula as WalkHeading) sample
+b. Dedicated turning code(Same formula as WalkHeading) sample
 
-Positive control range turn sample
+c. Positive control range turn sample
 
-Static turn sample
+d. Static turn sample
 
-Download File  
+Steps:
 
-Modify The motor port numbers & LED port numbers
+1. Download File  
 
-Upload to Robot Brain
+2. Modify The motor port numbers & LED port numbers
 
-Test 
- Watch for more Details [https://www.youtube.com/watch?v=JJ2SBPVzMt4](url)
+3. Upload to Robot Brain
+
+4. Test
+
+Watch for more Details [https://www.youtube.com/watch?v=JJ2SBPVzMt4](url)
 
